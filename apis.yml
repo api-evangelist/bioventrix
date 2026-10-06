@@ -19,7 +19,7 @@ specificationVersion: '0.20'
 
 created: '2026-09-28'
 
-modified: '2026-09-28'
+modified: '2026-10-06'
 
 tags:
 - Heart Failure
@@ -34,6 +34,8 @@ maintainers:
   email: info@apis.io
 
 common:
+- url: https://bioventrix.com/feed/
+  type: BlogRSS
 - type: Hosts
   url: hosts/bioventrix-hosts.yml
 - type: PrivacyPolicy
